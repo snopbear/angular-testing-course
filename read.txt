@@ -1,0 +1,29 @@
+
+npm run server
+
+npm start
+
+ng test
+
+ng test --no-watch 
+
+
+
+
+Terminology
+----------------
+1. test suite
+2.hot reload mode / "ng test"
+3. not hot reload mode / "ng test --no-watch "
+
+
+
+
+methods 
+--------------
+pendding()
+fail()
+
+
+
+
